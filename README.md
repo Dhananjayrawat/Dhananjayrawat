@@ -37,7 +37,7 @@ Python-based analysis.
 
 ## 📫 Contact
 - **LinkedIn:** [Dhananjay Rawat](https://www.linkedin.com/in/dhananjay-rawat-aa0822236)
-- **Email:** [your email here]
+- **Email:** [rawatktd6@gmail.com]
 
 ## ⚡ Fun fact
 I transitioned from Operations Team Lead to Data Analytics — 
