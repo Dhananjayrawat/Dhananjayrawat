@@ -30,7 +30,7 @@ Python-based analysis.
   patterns, revenue trends, and loss-making products using 
   Python and statistical analysis.
 
-- [ETL Data Pipeline]([https://github.com/Dhananjayrawat](https://github.com/Dhananjayrawat/ETL-Data-pipeline.git)) 
+- [ETL Data Pipeline]((https://github.com/Dhananjayrawat/ETL-Data-pipeline)) 
   — Python OOP-based ETL pipeline automating retail data flow 
   into MySQL — extract from CSV/SQL, transform via automated 
   cleaning, load into structured database.
